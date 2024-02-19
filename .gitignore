@@ -5,7 +5,7 @@
 **/.web
 *.db
 *.py[cod]
-*.web
+.web
 *.zip
 .idea
 .venv/
